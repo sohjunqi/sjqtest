@@ -8,7 +8,7 @@ void main()
 {
 	int option = 0;
 
-	do {
+//	do {
 		
 		printf("Please enter a number: ");
 		scanf("%d", &option);
@@ -16,7 +16,7 @@ void main()
 		printf("Your number was %d\n", option);
 
 
-	} while (option != 0);
+//	} while (option != 0);
 	
 }
 
